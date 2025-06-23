@@ -1,0 +1,52 @@
+{
+  "name": "Tarang - Disaster Communication System",
+  "short_name": "Tarang",
+  "description": "Offline-first disaster-resilient communication system for India",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#DC2626",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "news", "social"],
+  "lang": "en-IN",
+  "shortcuts": [
+    {
+      "name": "Emergency Services",
+      "short_name": "Emergency",
+      "description": "Quick access to emergency services",
+      "url": "/emergency",
+      "icons": [
+        {
+          "src": "/pwa-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Community Help",
+      "short_name": "Help",
+      "description": "Request or offer community help",
+      "url": "/help",
+      "icons": [
+        {
+          "src": "/pwa-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

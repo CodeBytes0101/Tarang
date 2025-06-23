@@ -1,0 +1,74 @@
+{
+  "app": {
+    "name": "तरंग",
+    "tagline": "हमेशा जुड़े, हमेशा सुरक्षित"
+  },
+  "navigation": {
+    "dashboard": "डैशबोर्ड",
+    "emergency": "आपातकाल",
+    "help": "सहायता",
+    "map": "मानचित्र",
+    "settings": "सेटिंग्स",
+    "alerts": "AI अलर्ट"
+  },
+  "emergency": {
+    "title": "आपातकालीन सेवाएं",
+    "call": "कॉल करें",
+    "police": "पुलिस",
+    "fire": "दमकल विभाग",
+    "medical": "चिकित्सा आपातकाल",
+    "disaster": "आपदा प्रबंधन",
+    "contacts": "आपातकालीन संपर्क",
+    "tips": "सुरक्षा सुझाव"
+  },
+  "help": {
+    "title": "सामुदायिक सहायता",
+    "need": "सहायता चाहिए",
+    "offer": "सहायता दें",
+    "categories": {
+      "medical": "चिकित्सा सहायता",
+      "food": "भोजन और पानी",
+      "shelter": "आश्रय",
+      "transport": "परिवहन",
+      "rescue": "बचाव",
+      "other": "अन्य"
+    },
+    "priority": {
+      "low": "निम्न",
+      "medium": "मध्यम",
+      "high": "उच्च",
+      "critical": "गंभीर"
+    }
+  },
+  "map": {
+    "title": "आपातकालीन मानचित्र",
+    "shelters": "आश्रय स्थल",
+    "hospitals": "अस्पताल",
+    "relief_camps": "राहत शिविर",
+    "your_location": "आपका स्थान"
+  },
+  "alerts": {
+    "title": "AI अलर्ट सत्यापन",
+    "verified": "सत्यापित",
+    "unverified": "असत्यापित",
+    "trust_score": "विश्वास स्कोर",
+    "report_issue": "समस्या रिपोर्ट करें"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "location": "स्थान",
+    "low_power": "कम पावर मोड",
+    "notifications": "सूचनाएं"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "submit": "प्रस्तुत करें",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "offline": "ऑफलाइन मोड",
+    "online": "ऑनलाइन"
+  }
+}

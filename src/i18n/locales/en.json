@@ -1,0 +1,74 @@
+{
+  "app": {
+    "name": "Tarang",
+    "tagline": "Always Connected, Always Safe"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "emergency": "Emergency",
+    "help": "Help",
+    "map": "Map",
+    "settings": "Settings",
+    "alerts": "AI Alerts"
+  },
+  "emergency": {
+    "title": "Emergency Services",
+    "call": "Call",
+    "police": "Police",
+    "fire": "Fire Department",
+    "medical": "Medical Emergency",
+    "disaster": "Disaster Management",
+    "contacts": "Emergency Contacts",
+    "tips": "Safety Tips"
+  },
+  "help": {
+    "title": "Community Help",
+    "need": "Need Help",
+    "offer": "Offer Help",
+    "categories": {
+      "medical": "Medical Aid",
+      "food": "Food & Water",
+      "shelter": "Shelter",
+      "transport": "Transportation",
+      "rescue": "Rescue",
+      "other": "Other"
+    },
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "critical": "Critical"
+    }
+  },
+  "map": {
+    "title": "Emergency Map",
+    "shelters": "Shelters",
+    "hospitals": "Hospitals",
+    "relief_camps": "Relief Camps",
+    "your_location": "Your Location"
+  },
+  "alerts": {
+    "title": "AI Alert Verification",
+    "verified": "Verified",
+    "unverified": "Unverified",
+    "trust_score": "Trust Score",
+    "report_issue": "Report Issue"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "location": "Location",
+    "low_power": "Low Power Mode",
+    "notifications": "Notifications"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "offline": "Offline Mode",
+    "online": "Online"
+  }
+}
