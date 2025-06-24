@@ -39,7 +39,7 @@ In times of disaster, traditional communication systems often fail. This leads t
 | **Frontend**     | React, TypeScript, Tailwind CSS        |
 | **Offline PWA**  | Service Workers, IndexedDB, Manifest   |
 | **Maps**         | Leaflet.js (offline tile caching), GPS |
-| **Sync/Hosting** | Firebase, GitHub Pages, Vercel         |
+| **Sync/Hosting** | GitHub Pages, Vercel                   |
 | **Database**     | MongoDB                                |
 
 ---
